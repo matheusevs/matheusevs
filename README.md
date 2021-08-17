@@ -14,17 +14,23 @@
 
   ##
 
-<table>
+<!--<table>
   <tr>
     <td> 
       <a href="https://github.com/MatheusEVSouza">
-      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusEVSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusEVSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-      <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEVSouza&layout=compact&langs_count=7&theme=dark"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEVSouza&layout=compact&langs_count=7&theme=dark"/>
     </td>
   </tr>
-</table>
+</table>-->
+
+<div>
+  <a href="https://github.com/MatheusEVSouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusEVSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEVSouza&layout=compact&langs_count=7&theme=dark"/>
+</div>
 
   ##
   
