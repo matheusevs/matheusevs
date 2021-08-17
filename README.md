@@ -1,19 +1,31 @@
 ### Oi! Eu sou o Matheus, seja bem vindo ao meu perfil!! 😄
 
-- 👨‍💻 Hoje trabalho na Versa Tecnologia.
-- 💡 Desenvolvedor Web Front-end.
-- 💻 Conhecimento em HTML, CSS, JavaScript e C.
-- 🖥️ Ionic 3, Bootstrap, AngularJs.
-- 📖 Atualmente estou aprendendo PHP 7, MySQL e Java.
-  
+<table>
+  <tr>
+    <td> 
+      - 👨‍💻&emsp;Hoje trabalho na Versa Tecnologia.<br>
+      - 💡&emsp; Desenvolvedor Web Front-end.<br>
+      - 💻&emsp;Conhecimento em HTML, CSS, JavaScript e C.<br>
+      - 🖥️&emsp;Ionic 3, Bootstrap, AngularJs.<br>
+      - 📖&emsp;Atualmente estou aprendendo PHP 7, MySQL e Java.<br>
+    </td>
+  </tr>
+</table>
+
   ##
 
-<div>
-  <a href="https://github.com/MatheusEVSouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusEVSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEVSouza&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
+<table>
+  <tr>
+    <td> 
+      <a href="https://github.com/MatheusEVSouza">
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusEVSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    </td>
+    <td>
+      <img height="100em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusEVSouza&layout=compact&langs_count=7&theme=dark"/>
+    </td>
+  </tr>
+</table>
+
   ##
   
 <div style="display: inline_block"><br>
@@ -35,3 +47,6 @@
  <a href="https://discord.gg/tp8CRTzR3Q" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/matheus-eduardo-vieira-de-souza-983588206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  ##
+  ##
+  ##
