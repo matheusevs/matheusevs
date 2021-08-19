@@ -55,6 +55,3 @@
   <a href="https://steamcommunity.com/id/tiotheusgod" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
 </div>
-  
-  
-![Snake animation](https://github.com/MatheusEVSouza/MatheusEVSouza/blob/output/github-contribution-grid-snake.svg) 
