@@ -6,8 +6,8 @@
       - 👨‍💻&emsp;Hoje trabalho na Versa Tecnologia.<br>
       - 💡&emsp; Desenvolvedor Web Front-end.<br>
       - 💻&emsp;Conhecimento em HTML, CSS, JavaScript e C.<br>
-      - 🖥️&emsp;Ionic 3, Bootstrap, AngularJs.<br>
-      - 📖&emsp;Atualmente estou aprendendo PHP 7, MySQL e Java.<br>
+      - 🖥️&emsp;Ionic, Bootstrap, AngularJs.<br>
+      - 📖&emsp;Atualmente estou aprendendo PHP, MySQL e Java.<br>
     </td>
   </tr>
 </table>
