@@ -54,4 +54,4 @@
   <a href="https://www.linkedin.com/in/matheus-eduardo-vieira-de-souza-983588206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/tiotheusgod" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 
-</div>t
+</div>
