@@ -7,7 +7,7 @@
       - 💡&emsp; Desenvolvedor Web Front-end e Mobile.<br>
       - 💻&emsp;Conhecimento em HTML, CSS, JavaScript, TypeScript, PHP e C.<br>
       - 🖥️&emsp;Ionic, Bootstrap, AngularJs.<br>
-      - 📖&emsp;Atualmente estou aprendendo MySQL e Java.<br>
+      - 📖&emsp;Atualmente estou aprendendo MySQL, Ajax e Java.<br>
     </td>
   </tr>
 </table>
