@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td> 
-      - 👨‍💻&emsp;Hoje trabalho na Versa Tecnologia com desenvolvimento Mobile.<br>
+      - 👨‍💻&emsp;Atualmente trabalho na Versa Tecnologia com desenvolvimento Mobile.<br>
       <!--- 💡&emsp; Desenvolvedor Web Front-end e Mobile.<br>-->
       - 💻&emsp;Conhecimento em HTML, CSS, JavaScript, TypeScript, PHP, Java e C.<br>
       - 🖥️&emsp;Ionic, Bootstrap, AngularJs.<br>
