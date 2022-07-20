@@ -3,9 +3,9 @@
 <table>
   <tr>
     <td> 
-      - 👨‍💻&emsp;Atualmente trabalho na Versa Tecnologia como desenvolvedor Full Stack Mobile utilizando o Ionic.<br>
+      - 👨‍💻&emsp;Atualmente trabalho na Versa Tecnologia como desenvolvedor Web.<br>
 <!--       - 💡&emsp;Aprendendo React-Native<br> -->
-      - 💻&emsp;Conhecimento em HTML, CSS, JavaScript, TypeScript, PHP, Java e C.<br>
+      - 💻&emsp;Conhecimento em HTML, CSS, JavaScript, TypeScript, PHP, Angular, Ionic, Java e C.<br>
 <!--       - 🖥️&emsp;Ionic, React-Native, Bootstrap, AngularJs.<br> -->
     </td>
   </tr>
