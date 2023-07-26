@@ -4,9 +4,7 @@
   <tr>
     <td> 
       - 👨‍💻&emsp;Atualmente trabalho na Versa Tecnologia como desenvolvedor Web e Mobile.<br>
-<!--       - 💡&emsp;Aprendendo React-Native<br> -->
-      - 💻&emsp;Conhecimento em PHP, TypeScript, JavaScript, Zend, Laravel, Ionic, Angular.<br>
-<!--       - 🖥️&emsp;Ionic, React-Native, Bootstrap, AngularJs.<br> -->
+      - 💻&emsp;Conhecimento em PHP, TypeScript, JavaScript, NodeJS, Zend, Laravel, Ionic, Angular.<br>
     </td>
   </tr>
 </table>
