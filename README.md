@@ -4,7 +4,7 @@
   <tr>
     <td> 
       - 👨‍💻&emsp;Atualmente trabalho como desenvolvedor Web<br>
-      - 💻&emsp;Conhecimento em PHP, TypeScript, JavaScript, Laravel.<br>
+      - 💻&emsp;Conhecimento em PHP, TypeScript, JavaScript, Laravel e NodeJS.<br>
     </td>
   </tr>
 </table>
