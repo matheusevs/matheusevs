@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td> 
-      - 👨‍💻&emsp;Atualmente trabalho como desenvolvedor Web na Sonax<br>
+      - 👨‍💻&emsp;Atualmente trabalho como desenvolvedor de software na Sonax<br>
       - 💻&emsp;Conhecimento em PHP, TypeScript, JavaScript, Laravel e NodeJS.<br>
     </td>
   </tr>
